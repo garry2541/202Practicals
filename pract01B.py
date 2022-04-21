@@ -5,7 +5,7 @@
 # https://www.online-python.com/
 
 import os
-f = open("content.txt", "r")
+f = open("01Bcontent.txt", "r")
 data = f.read()
 ucase = 0
 lcase = 0
